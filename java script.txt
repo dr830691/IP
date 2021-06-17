@@ -1,0 +1,3 @@
+props types
+Delete an element from an array
+
